@@ -64,28 +64,7 @@ ProSport ⚽ is a comprehensive sports management tool designed to help coaches,
  
   5. **Generate and Download**: Click 'Generate' to export the report in PDF or CSV format.
 
-Below is an example of a report in JSON format:
 
-{ 
-"team_name": "Thunderbolts FC",
-"report_generated_on": "2024-10-21",
-"matches_played": 10,
-"matches_won": 6,
-"matches_lost": 3,
-"draws": 1,
-"top_scorer": "Alex Turner",
-"total_goals": 15, 
-"average_team_rating": 7.5,
-"key_matches": [
-{
-"opponent": "Rivals United", 
-"result": "Win", 
-"score": "3-1", 
-"date": "2024-09-15"
-},
-     }
-  ]
-}
 
 ----
 
