@@ -120,7 +120,8 @@ Integrations:
 2.  For Markdown tips, visit the [Markdown Guide](https://www.markdownguide.org).
 
 
-![A modern, user-friendly interface for a time management software called Chronos, displayed on a digital tablet. The interface includes a calendar view on the left for scheduling tasks, a section for task management with a list of projects and tasks, and a dashboard that displays key details like deadlines, ongoing tasks, and progress tracking. The interface uses a clean blue and white color scheme with icons for adding tasks, managing projects, and team collaboration. The UI has rounded buttons and a sleek design, providing a seamless user experience.](https://files.oaiusercontent.com/file-1kmVeoeM4uMeoLuGtgB9bVJL?se=2024-10-20T19%3A34%3A48Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De462838c-f0b6-40e7-9993-8ba0e70a729e.webp&sig=wBH0pjZqN6BMTOdgDjGfWndMjsEzkebgSlMi90A7J94%3D)
+![image](https://github.com/user-attachments/assets/f75c1710-8643-48bc-b67f-c3a835e6acb5)
+
 
 
 
