@@ -106,15 +106,22 @@ Below is an example of a report in JSON format:
 ProSport enables users to automate repetitive tasks through scripting. For example, you can use a Python script to send automated reminders to players about upcoming training sessions:
 
 def send_reminder(team):
+
 pending_sessions = [session for session in   team.sessions
 if session.status == 'upcoming']
+
     for session in pending_sessions:
+    
     team.notify_players(f'Reminder: Training
+    
     session {session.name} is scheduled for
     tomorrow!')
+    
     print(f'Reminder sent for session
     {session.name}')
+    
     team_name = 'Thunderbolts FC'
+    
     send_reminder(get_team_by_name(team_name))
 
 
